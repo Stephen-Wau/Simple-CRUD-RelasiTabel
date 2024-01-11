@@ -1,6 +1,6 @@
 # CRUD Relasi Tabel
 
-Berikut CRUD sederhana yang memiliki relasi antar dua tabel.
+Berikut CRUD sederhana yang memiliki relasi antar dua tabel sebagai TAS matkul Pengenalan permograman web di semester 3.
 
 ## Run Database
 
